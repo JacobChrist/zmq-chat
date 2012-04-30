@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "zmq-chat", "zmq-chat\zmq-chat.vbproj", "{6BD5A147-EA24-4B87-A3C5-109440D17558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BD5A147-EA24-4B87-A3C5-109440D17558}.Debug|x86.ActiveCfg = Debug|x86
+		{6BD5A147-EA24-4B87-A3C5-109440D17558}.Debug|x86.Build.0 = Debug|x86
+		{6BD5A147-EA24-4B87-A3C5-109440D17558}.Release|x86.ActiveCfg = Release|x86
+		{6BD5A147-EA24-4B87-A3C5-109440D17558}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+
+*.suo
+/zmq-chat/bin
+/zmq-chat/obj
